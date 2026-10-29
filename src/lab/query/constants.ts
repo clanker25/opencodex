@@ -1,0 +1,4 @@
+export const LAB_QUERY_DEFAULT_PAGE_SIZE = 40;
+export const LAB_QUERY_MAX_PAGE_SIZE = 100;
+export const LAB_QUERY_CURSOR_VERSION = 2;
+export const LAB_QUERY_MAX_CURSOR_BYTES = 4096;
